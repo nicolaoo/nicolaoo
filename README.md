@@ -1,4 +1,4 @@
-  ![shutterstock_277831355](https://github.com/nicolaoo/nicolaoo/assets/114693081/124a1a45-ab14-4b76-8440-864b91dd87d7)
+![shutterstock_277831355](https://github.com/nicolaoo/nicolaoo/assets/114693081/124a1a45-ab14-4b76-8440-864b91dd87d7)
 
 ###
 
