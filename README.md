@@ -10,9 +10,9 @@
 
 ###
 
-<p align="left">✨ Sono un Junior Full Stack appassionato.
-📚 Sono in costante apprendimento di nuovi  linguaggi e framework.
-🎯Considero ogni giorno una nuova opportunità di crescita.
+<p align="left">✨ Sono un Junior Full Stack appassionato.<br>
+📚 Sono in costante apprendimento di nuovi  linguaggi e framework.<br>
+🎯Considero ogni giorno una nuova opportunità di crescita.<br>
 🏋️‍♂️ Lo sport è il mio hobby preferito.
 </p>
 
