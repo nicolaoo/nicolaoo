@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  ![shutterstock_277831355](https://github.com/nicolaoo/nicolaoo/assets/114693081/124a1a45-ab14-4b76-8440-864b91dd87d7)
 </div>
 
 ###
