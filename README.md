@@ -49,7 +49,12 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+    <a href="https://www.linkedin.com/in/nicola-guarise-29b869205/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+    </a>
+  <a href="nicolajobs00@gmail.com">
+    <img src="https://www.nidirect.gov.uk/sites/default/files/styles/nigov_full_1240_x2/public/images/email_logo.jpg?itok=w0tRFkLf" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
