@@ -1,5 +1,5 @@
 
-![shutterstock_277831355](https://github.com/nicolaoo/nicolaoo/assets/114693081/b696573d-fc60-4201-a9aa-9dae5b2d2ae9)
+(https://github.com/nicolaoo/nicolaoo/assets/114693081/b696573d-fc60-4201-a9aa-9dae5b2d2ae9)
 
 ###
 
